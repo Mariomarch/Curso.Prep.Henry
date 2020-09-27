@@ -1,0 +1,24 @@
+tarea:
+
+- Variables: la variables son los datos que le decimos a la computadora que podemos 
+             modificar para que nos muestre lo que queremos, por ej: 
+             si quiero que diga "Mi nombre es ........" lo que va en los puntos es 
+             la variable, ya que la completa cada uno  
+
+- strings: las strings son palabras o cadenas de numeros que siempre se ponen entre 
+           comillas y se ven siempre como palabras, por ej:
+           "hola" como esta entre las comillas siempre lo va a leer como palabra y 
+           si colocamos "2" es como si la computadora lo leyera "dos", no importa si 
+           es numero o letra, siempre lo lee como palabra
+
+- funciones: las funciones son las cosas que le pedimos a la computadora que haga y 
+             que nos muestre, por ej: suma (2 + 3) y mostrame el resultado, la 
+             computadora va a realizar la suma y nos va a mostrar el resultado
+
+- declaraciones: la declaraciones son cuando debemos comparar las cosas que queremos
+                 hacer, por ej: si quiero que me diga si es de mañana o de tarde, le
+                 ponemos, si (if) son las 12 o menos = es de mañana, sino es de tarde
+
+- valores booleanos: los valores booleanos son los que siempre en las comparaciones
+                     nos dicen solo si es verdadero o falso, por ej:
+                     si le digo, si tengo 18 años o mas soy mayor de edad, sino no. 
